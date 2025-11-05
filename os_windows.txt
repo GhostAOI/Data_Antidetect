@@ -1,0 +1,90 @@
+Windows NT 10.0; Win64; x64
+Windows NT 10.0; WOW64
+Windows NT 10.0; Win64; x64; rv:120.0
+Windows NT 10.0; Win64; ARM64
+Windows NT 10.0; Win64; x64; Edition=Professional
+Windows NT 10.0; Win64; x64; Edition=Enterprise
+Windows NT 10.0; Win64; x64; Edition=Education
+Windows NT 10.0; Win64; x64; Edition=Home
+Windows NT 10.0; Win64; x64; Edition=Workstation
+Windows NT 10.0; Win64; x64; Version=22H2
+Windows NT 10.0; Win64; x64; Version=21H2
+Windows NT 10.0; Win64; x64; Version=20H2
+Windows NT 10.0; Win64; x64; Build=19045
+Windows NT 10.0; Win64; x64; Build=19044
+Windows NT 10.0; Win64; x64; Build=19043
+Windows NT 10.0; Win64; x64; Build=19042
+Windows NT 10.0; Win64; x64; Build=19041
+Windows NT 10.0; Win64; x64; Build=19045.3803
+Windows NT 10.0; Win64; x64; Build=19044.4046
+Windows NT 10.0; Win64; x64; Build=19043.1466
+Windows NT 10.0; Win64; x64; Build=19042.867
+Windows NT 11.0; Win64; x64
+Windows NT 11.0; Win64; x64; Edition=Professional
+Windows NT 11.0; Win64; x64; Edition=Enterprise
+Windows NT 11.0; Win64; x64; Edition=Home
+Windows NT 11.0; Win64; x64; Build=22621
+Windows NT 11.0; Win64; x64; Build=22631
+Windows NT 11.0; Win64; x64; Version=23H2
+Windows NT 11.0; Win64; x64; Version=24H2
+Windows NT 11.0; Win64; x64; Insider Preview
+Windows NT 11.0; Win64; ARM64
+Windows NT 11.0; Win64; x64; Edition=Education
+Windows NT 6.3; Win64; x64
+Windows NT 6.3; WOW64
+Windows NT 6.3; Win64; x64; Edition=Professional
+Windows NT 6.3; Win64; x64; Edition=Enterprise
+Windows NT 6.3; Win64; x64; Edition=Home
+Windows NT 6.3; Win64; x64; Build=9600
+Windows NT 6.2; Win64; x64
+Windows NT 6.2; WOW64
+Windows NT 6.2; Win64; x64; Edition=Professional
+Windows NT 6.2; Win64; x64; Edition=Enterprise
+Windows NT 6.2; Win64; x64; Edition=Home
+Windows NT 6.2; Win64; x64; Build=9200
+Windows NT 6.1; Win64; x64
+Windows NT 6.1; WOW64
+Windows NT 6.1; Win64; x64; Edition=Professional
+Windows NT 6.1; Win64; x64; Edition=Enterprise
+Windows NT 6.1; Win64; x64; Edition=Home Premium
+Windows NT 6.1; Win64; x64; Edition=Ultimate
+Windows NT 6.1; Win64; x64; Build=7601
+Windows NT 6.1; Win64; x64; Build=7600
+Windows NT 6.0; Win64; x64
+Windows NT 6.0; WOW64
+Windows NT 6.0; Win64; x64; Edition=Ultimate
+Windows NT 6.0; Win64; x64; Edition=Business
+Windows NT 6.0; Win64; x64; Edition=Home Premium
+Windows NT 6.0; Win64; x64; Build=6002
+Windows NT 5.1; Win32; x86
+Windows NT 5.1; Win32; x86; Edition=Home
+Windows NT 5.1; Win32; x86; Edition=Professional
+Windows NT 5.1; Win32; x86; Build=2600
+Windows NT 5.0; Win32; x86
+Windows NT 5.0; Win32; x86; Edition=Server
+Windows NT 5.0; Win32; x86; Edition=Workstation
+Windows NT 5.0; Win32; x86; Build=2195
+Windows NT 10.0; Server 2019; Win64; x64
+Windows NT 10.0; Server 2022; Win64; x64
+Windows NT 10.0; Server 2025; Win64; x64
+Windows NT 6.3; Server 2012 R2; Win64; x64
+Windows NT 6.1; Server 2008 R2; Win64; x64
+Windows NT 5.2; Server 2003; Win32; x86
+Windows NT 11.0; Win64; x64; Build=26000; Dev Channel
+Windows NT 11.0; Win64; x64; Build=26100; Canary Channel
+Windows NT 10.0; Win64; x64; Insider Preview
+Windows NT 10.0; Win64; x64; Edition=LTSC
+Windows NT 10.0; Win64; x64; Edition=LTSB
+Windows NT 10.0; Win64; x64; IoT Enterprise
+Windows NT 10.0; Win64; x64; Enterprise LTSC 2021
+Windows NT 10.0; Win64; x64; Enterprise LTSB 2016
+Windows NT 11.0; Win64; x64; Enterprise LTSC 2025
+Windows NT 10.0; Win64; x64; Build=21390; Insider Dev
+Windows NT 11.0; Win64; x64; Build=22000
+Windows NT 11.0; Win64; x64; Build=22635
+Windows NT 11.0; Win64; x64; Build=25941
+Windows NT 11.0; Win64; x64; Build=26120
+Windows NT 10.0; ARM64; Surface Pro X
+Windows NT 11.0; ARM64; Surface Pro 9
+Windows NT 10.0; Win64; x64; Version=2004
+Windows NT 10.0; Win64; x64; Version=1909
