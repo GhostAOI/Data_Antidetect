@@ -1,0 +1,115 @@
+Pixel 3
+Pixel 3a
+Pixel 4
+Pixel 4a
+Pixel 5
+Pixel 5a
+Pixel 6
+Pixel 6 Pro
+Pixel 7
+Pixel 7 Pro
+Pixel 8
+Pixel 8 Pro
+Samsung Galaxy S9
+Samsung Galaxy S9+
+Samsung Galaxy S10
+Samsung Galaxy S10+
+Samsung Galaxy S10e
+Samsung Galaxy S20
+Samsung Galaxy S20+
+Samsung Galaxy S20 Ultra
+Samsung Galaxy S21
+Samsung Galaxy S21+
+Samsung Galaxy S21 Ultra
+Samsung Galaxy S22
+Samsung Galaxy S22+
+Samsung Galaxy S22 Ultra
+Samsung Galaxy S23
+Samsung Galaxy S23 Ultra
+Samsung Galaxy Note 9
+Samsung Galaxy Note 10
+Samsung Galaxy Note 10+
+Samsung Galaxy Note 20
+Samsung Galaxy Note 20 Ultra
+Samsung Galaxy A50
+Samsung Galaxy A52
+Samsung Galaxy A71
+Samsung Galaxy M31
+Samsung Galaxy M52
+Samsung Galaxy Z Fold3
+Samsung Galaxy Z Fold4
+Samsung Galaxy Z Flip3
+Samsung Galaxy Z Flip4
+Xiaomi Mi 9
+Xiaomi Mi 10
+Xiaomi Mi 10T
+Xiaomi Mi 11
+Xiaomi Mi 11 Ultra
+Xiaomi Mi 12
+Xiaomi 12T
+Xiaomi 13
+Xiaomi 13 Pro
+Redmi Note 8
+Redmi Note 9
+Redmi Note 10
+Redmi Note 11
+Redmi Note 12
+POCO F3
+POCO F4
+POCO X3 Pro
+POCO X4 Pro
+Oppo Reno 6
+Oppo Reno 7
+Oppo Reno 8
+Oppo Find X2
+Oppo Find X3 Pro
+Oppo Find X5 Pro
+Oppo A54
+Oppo A78
+Realme 7
+Realme 8 Pro
+Realme 9
+Realme 10 Pro+
+Realme GT
+Realme GT Neo 2
+Realme GT Neo 3
+Vivo V19
+Vivo V20
+Vivo V21
+Vivo V25
+Vivo X50 Pro
+Vivo X60 Pro
+Vivo X70 Pro+
+Vivo Y20
+Vivo Y33
+Vivo Y35
+OnePlus 7
+OnePlus 7T
+OnePlus 8
+OnePlus 8 Pro
+OnePlus 9
+OnePlus 9 Pro
+OnePlus 10T
+OnePlus 11
+Huawei P30
+Huawei P30 Pro
+Huawei P40
+Huawei P40 Pro
+Huawei P50
+Huawei P50 Pro
+Huawei Mate 30
+Huawei Mate 40
+Asus ROG Phone 3
+Asus ROG Phone 5
+Asus Zenfone 7
+Asus Zenfone 8
+Sony Xperia 1 II
+Sony Xperia 5 III
+Sony Xperia 10 IV
+Lenovo Legion Phone Duel
+Lenovo K13 Note
+Motorola Edge 20
+Motorola G60
+Motorola G100
+Nokia 7.2
+Nokia 8.3 5G
