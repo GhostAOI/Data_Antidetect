@@ -1,0 +1,82 @@
+X11; Linux x86_64
+X11; Ubuntu; Linux x86_64
+X11; Ubuntu 22.04; Linux x86_64
+X11; Ubuntu 20.04; Linux x86_64
+X11; Ubuntu 18.04; Linux x86_64
+X11; Fedora; Linux x86_64
+X11; Fedora 40; Linux x86_64
+X11; Fedora 39; Linux x86_64
+X11; Fedora 38; Linux x86_64
+X11; Debian; Linux x86_64
+X11; Debian 12; Linux x86_64
+X11; Debian 11; Linux x86_64
+X11; Debian 10; Linux x86_64
+X11; Arch Linux x86_64
+X11; Arch Linux; Linux x86_64
+X11; Manjaro Linux x86_64
+X11; Manjaro 23.1; Linux x86_64
+X11; Linux Mint 21.2; Linux x86_64
+X11; Linux Mint 20.3; Linux x86_64
+X11; Pop!_OS 22.04; Linux x86_64
+X11; Pop!_OS 21.10; Linux x86_64
+X11; Elementary OS 6; Linux x86_64
+X11; Elementary OS 7; Linux x86_64
+X11; Zorin OS 16; Linux x86_64
+X11; Kali Linux; Linux x86_64
+X11; Kali Linux 2023.3; Linux x86_64
+X11; Tails Linux; Linux x86_64
+X11; Parrot OS; Linux x86_64
+X11; AlmaLinux 9; Linux x86_64
+X11; Rocky Linux 9; Linux x86_64
+X11; CentOS 7; Linux x86_64
+X11; CentOS Stream 9; Linux x86_64
+X11; RHEL 9; Linux x86_64
+X11; RHEL 8; Linux x86_64
+X11; OpenSUSE Leap 15.6; Linux x86_64
+X11; OpenSUSE Tumbleweed; Linux x86_64
+X11; Gentoo; Linux x86_64
+X11; Gentoo Base System; Linux x86_64
+X11; Alpine Linux; Linux x86_64
+X11; Alpine Linux 3.19; Linux x86_64
+X11; Slackware 15; Linux x86_64
+X11; EndeavourOS; Linux x86_64
+X11; Garuda Linux; Linux x86_64
+X11; MX Linux 23; Linux x86_64
+X11; MX Linux; Linux x86_64
+X11; Clear Linux OS; Linux x86_64
+X11; NixOS; Linux x86_64
+X11; NixOS 24.05; Linux x86_64
+X11; Solus 4.5; Linux x86_64
+X11; Deepin 23; Linux x86_64
+X11; Deepin 20; Linux x86_64
+X11; Endless OS; Linux x86_64
+X11; Bodhi Linux; Linux x86_64
+X11; Mageia 9; Linux x86_64
+X11; Peppermint OS; Linux x86_64
+X11; antiX 23; Linux x86_64
+X11; Peppermint 12; Linux x86_64
+X11; Linux From Scratch; Linux x86_64
+X11; Void Linux; Linux x86_64
+X11; PCLinuxOS; Linux x86_64
+X11; RedStar OS; Linux x86_64
+X11; Ubuntu; Linux armv7l
+X11; Fedora; Linux armv8l
+X11; Arch Linux armv8l
+X11; Debian; Linux armv8l
+X11; Alpine Linux armv7l
+X11; Gentoo; Linux armv7l
+X11; Linux i686
+X11; Ubuntu; Linux i686
+X11; Debian; Linux i686
+X11; Fedora; Linux i686
+X11; Arch Linux i686
+X11; CentOS; Linux i686
+X11; OpenSUSE; Linux i686
+X11; Linux arm64
+X11; Linux armv7l
+X11; Linux aarch64
+X11; Linux riscv64
+X11; ChromeOS; Linux x86_64
+X11; ChromeOS; Linux armv8l
+X11; Android; Linux x86_64
+X11; Generic Linux; Linux x86_64
