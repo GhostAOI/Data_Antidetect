@@ -1,174 +1,174 @@
-Qualcomm, Adreno 610
-Qualcomm, Adreno 612
-Qualcomm, Adreno 615
-Qualcomm, Adreno 616
-Qualcomm, Adreno 618
-Qualcomm, Adreno 619
-Qualcomm, Adreno 620
-Qualcomm, Adreno 630
-Qualcomm, Adreno 640
-Qualcomm, Adreno 650
-Qualcomm, Adreno 660
-Qualcomm, Adreno 670
-Qualcomm, Adreno 675
-Qualcomm, Adreno 680
-Qualcomm, Adreno 685
-Qualcomm, Adreno 690
-Qualcomm, Adreno 695
-Qualcomm, Adreno 710
-Qualcomm, Adreno 720
-Qualcomm, Adreno 730
-Qualcomm, Adreno 740
-Qualcomm, Adreno 750
-Qualcomm, Adreno 510
-Qualcomm, Adreno 512
-Qualcomm, Adreno 530
-Qualcomm, Adreno 540
-Qualcomm, Adreno 550
-Qualcomm, Adreno 560
-Qualcomm, Adreno 570
-Qualcomm, Adreno 580
-Qualcomm, Adreno 702
-Qualcomm, Adreno 704
-Qualcomm, Adreno 706
-Qualcomm, Adreno 708
-ARM, Mali-G31 MP1
-ARM, Mali-G31 MP2
-ARM, Mali-G31 MP3
-ARM, Mali-G31 MP4
-ARM, Mali-G52 MP1
-ARM, Mali-G52 MP2
-ARM, Mali-G52 MP3
-ARM, Mali-G52 MP4
-ARM, Mali-G52 MP6
-ARM, Mali-G52 MP8
-ARM, Mali-G57 MC1
-ARM, Mali-G57 MC2
-ARM, Mali-G57 MC3
-ARM, Mali-G57 MC4
-ARM, Mali-G57 MC5
-ARM, Mali-G68 MC2
-ARM, Mali-G68 MC3
-ARM, Mali-G68 MC4
-ARM, Mali-G68 MC5
-ARM, Mali-G71 MP1
-ARM, Mali-G71 MP2
-ARM, Mali-G71 MP4
-ARM, Mali-G71 MP8
-ARM, Mali-G72 MP1
-ARM, Mali-G72 MP2
-ARM, Mali-G72 MP3
-ARM, Mali-G72 MP4
-ARM, Mali-G72 MP6
-ARM, Mali-G72 MP12
-ARM, Mali-G76 MP4
-ARM, Mali-G76 MP5
-ARM, Mali-G76 MP8
-ARM, Mali-G76 MP10
-ARM, Mali-G76 MP12
-ARM, Mali-G77 MP7
-ARM, Mali-G77 MP8
-ARM, Mali-G77 MP9
-ARM, Mali-G77 MP11
-ARM, Mali-G78 MP8
-ARM, Mali-G78 MP10
-ARM, Mali-G78 MP12
-ARM, Mali-G78 MP14
-ARM, Mali-G78 MP20
-ARM, Mali-G710 MP4
-ARM, Mali-G710 MP7
-ARM, Mali-G710 MP10
-ARM, Mali-G715 MP4
-ARM, Mali-G715 MP7
-ARM, Mali-G310 MP1
-ARM, Mali-G310 MP2
-ARM, Mali-G510 MP2
-ARM, Mali-G510 MP4
-ARM, Mali-G510 MP6
-ARM, Mali-G610 MP2
-ARM, Mali-G610 MP4
-ARM, Mali-G610 MP6
-ARM, Mali-G720 MP4
-ARM, Mali-G720 MP7
-ARM, Mali-G720 MP10
-ARM, Mali-G720 MP12
-Imagination Technologies, PowerVR GE8100
-Imagination Technologies, PowerVR GE8200
-Imagination Technologies, PowerVR GE8300
-Imagination Technologies, PowerVR GE8320
-Imagination Technologies, PowerVR GE8322
-Imagination Technologies, PowerVR GE8430
-Imagination Technologies, PowerVR GM9446
-Imagination Technologies, PowerVR Rogue GE8320
-Imagination Technologies, PowerVR Rogue GE8430
-Imagination Technologies, PowerVR Series8XE
-Imagination Technologies, PowerVR Series9XEP
-Imagination Technologies, PowerVR Series9XM
-Imagination Technologies, PowerVR Series9XTP
-NVIDIA, Tegra 2 GeForce ULP
-NVIDIA, Tegra 3 GeForce ULP
-NVIDIA, Tegra 4 GeForce ULP
-NVIDIA, Tegra K1 Kepler
-NVIDIA, Tegra X1 Maxwell
-NVIDIA, Tegra Parker Pascal
-NVIDIA, Tegra Xavier Volta
-NVIDIA, Tegra Orin Ampere
-Qualcomm, Adreno 504
-Qualcomm, Adreno 505
-Qualcomm, Adreno 506
-Qualcomm, Adreno 508
-Qualcomm, Adreno 509
-Qualcomm, Adreno 605
-Qualcomm, Adreno 608
-Qualcomm, Adreno 620L
-Qualcomm, Adreno 642
-Qualcomm, Adreno 642L
-Qualcomm, Adreno 643
-Qualcomm, Adreno 644
-Qualcomm, Adreno 650L
-Qualcomm, Adreno 660L
-Qualcomm, Adreno 680L
-Qualcomm, Adreno 690L
-ARM, Mali-T620 MP2
-ARM, Mali-T620 MP4
-ARM, Mali-T720 MP1
-ARM, Mali-T720 MP2
-ARM, Mali-T720 MP4
-ARM, Mali-T760 MP2
-ARM, Mali-T760 MP4
-ARM, Mali-T760 MP6
-ARM, Mali-T760 MP8
-ARM, Mali-T830 MP2
-ARM, Mali-T830 MP4
-ARM, Mali-T880 MP4
-ARM, Mali-T880 MP8
-ARM, Mali-T880 MP12
-ARM, Mali-T860 MP2
-ARM, Mali-T860 MP4
-Imagination Technologies, PowerVR GXA6850
-Imagination Technologies, PowerVR G6230
-Imagination Technologies, PowerVR G6400
-Imagination Technologies, PowerVR G6430
-Imagination Technologies, PowerVR G6630
-Qualcomm, Adreno 304
-Qualcomm, Adreno 305
-Qualcomm, Adreno 306
-Qualcomm, Adreno 308
-Qualcomm, Adreno 405
-Qualcomm, Adreno 418
-Qualcomm, Adreno 420
-Qualcomm, Adreno 430
-Qualcomm, Adreno 505
-Qualcomm, Adreno 512
-Qualcomm, Adreno 530
-Qualcomm, Adreno 540
-ARM, Mali-400 MP1
-ARM, Mali-400 MP2
-ARM, Mali-400 MP4
-ARM, Mali-450 MP4
-ARM, Mali-450 MP8
-ARM, Mali-T624
-ARM, Mali-T628 MP2
-ARM, Mali-T628 MP4
-ARM, Mali-T628 MP6
-ARM, Mali-T678
+Qualcomm|Adreno 610
+Qualcomm|Adreno 612
+Qualcomm|Adreno 615
+Qualcomm|Adreno 616
+Qualcomm|Adreno 618
+Qualcomm|Adreno 619
+Qualcomm|Adreno 620
+Qualcomm|Adreno 630
+Qualcomm|Adreno 640
+Qualcomm|Adreno 650
+Qualcomm|Adreno 660
+Qualcomm|Adreno 670
+Qualcomm|Adreno 675
+Qualcomm|Adreno 680
+Qualcomm|Adreno 685
+Qualcomm|Adreno 690
+Qualcomm|Adreno 695
+Qualcomm|Adreno 710
+Qualcomm|Adreno 720
+Qualcomm|Adreno 730
+Qualcomm|Adreno 740
+Qualcomm|Adreno 750
+Qualcomm|Adreno 510
+Qualcomm|Adreno 512
+Qualcomm|Adreno 530
+Qualcomm|Adreno 540
+Qualcomm|Adreno 550
+Qualcomm|Adreno 560
+Qualcomm|Adreno 570
+Qualcomm|Adreno 580
+Qualcomm|Adreno 702
+Qualcomm|Adreno 704
+Qualcomm|Adreno 706
+Qualcomm|Adreno 708
+ARM|Mali-G31 MP1
+ARM|Mali-G31 MP2
+ARM|Mali-G31 MP3
+ARM|Mali-G31 MP4
+ARM|Mali-G52 MP1
+ARM|Mali-G52 MP2
+ARM|Mali-G52 MP3
+ARM|Mali-G52 MP4
+ARM|Mali-G52 MP6
+ARM|Mali-G52 MP8
+ARM|Mali-G57 MC1
+ARM|Mali-G57 MC2
+ARM|Mali-G57 MC3
+ARM|Mali-G57 MC4
+ARM|Mali-G57 MC5
+ARM|Mali-G68 MC2
+ARM|Mali-G68 MC3
+ARM|Mali-G68 MC4
+ARM|Mali-G68 MC5
+ARM|Mali-G71 MP1
+ARM|Mali-G71 MP2
+ARM|Mali-G71 MP4
+ARM|Mali-G71 MP8
+ARM|Mali-G72 MP1
+ARM|Mali-G72 MP2
+ARM|Mali-G72 MP3
+ARM|Mali-G72 MP4
+ARM|Mali-G72 MP6
+ARM|Mali-G72 MP12
+ARM|Mali-G76 MP4
+ARM|Mali-G76 MP5
+ARM|Mali-G76 MP8
+ARM|Mali-G76 MP10
+ARM|Mali-G76 MP12
+ARM|Mali-G77 MP7
+ARM|Mali-G77 MP8
+ARM|Mali-G77 MP9
+ARM|Mali-G77 MP11
+ARM|Mali-G78 MP8
+ARM|Mali-G78 MP10
+ARM|Mali-G78 MP12
+ARM|Mali-G78 MP14
+ARM|Mali-G78 MP20
+ARM|Mali-G710 MP4
+ARM|Mali-G710 MP7
+ARM|Mali-G710 MP10
+ARM|Mali-G715 MP4
+ARM|Mali-G715 MP7
+ARM|Mali-G310 MP1
+ARM|Mali-G310 MP2
+ARM|Mali-G510 MP2
+ARM|Mali-G510 MP4
+ARM|Mali-G510 MP6
+ARM|Mali-G610 MP2
+ARM|Mali-G610 MP4
+ARM|Mali-G610 MP6
+ARM|Mali-G720 MP4
+ARM|Mali-G720 MP7
+ARM|Mali-G720 MP10
+ARM|Mali-G720 MP12
+Imagination Technologies|PowerVR GE8100
+Imagination Technologies|PowerVR GE8200
+Imagination Technologies|PowerVR GE8300
+Imagination Technologies|PowerVR GE8320
+Imagination Technologies|PowerVR GE8322
+Imagination Technologies|PowerVR GE8430
+Imagination Technologies|PowerVR GM9446
+Imagination Technologies|PowerVR Rogue GE8320
+Imagination Technologies|PowerVR Rogue GE8430
+Imagination Technologies|PowerVR Series8XE
+Imagination Technologies|PowerVR Series9XEP
+Imagination Technologies|PowerVR Series9XM
+Imagination Technologies|PowerVR Series9XTP
+NVIDIA|Tegra 2 GeForce ULP
+NVIDIA|Tegra 3 GeForce ULP
+NVIDIA|Tegra 4 GeForce ULP
+NVIDIA|Tegra K1 Kepler
+NVIDIA|Tegra X1 Maxwell
+NVIDIA|Tegra Parker Pascal
+NVIDIA|Tegra Xavier Volta
+NVIDIA|Tegra Orin Ampere
+Qualcomm|Adreno 504
+Qualcomm|Adreno 505
+Qualcomm|Adreno 506
+Qualcomm|Adreno 508
+Qualcomm|Adreno 509
+Qualcomm|Adreno 605
+Qualcomm|Adreno 608
+Qualcomm|Adreno 620L
+Qualcomm|Adreno 642
+Qualcomm|Adreno 642L
+Qualcomm|Adreno 643
+Qualcomm|Adreno 644
+Qualcomm|Adreno 650L
+Qualcomm|Adreno 660L
+Qualcomm|Adreno 680L
+Qualcomm|Adreno 690L
+ARM|Mali-T620 MP2
+ARM|Mali-T620 MP4
+ARM|Mali-T720 MP1
+ARM|Mali-T720 MP2
+ARM|Mali-T720 MP4
+ARM|Mali-T760 MP2
+ARM|Mali-T760 MP4
+ARM|Mali-T760 MP6
+ARM|Mali-T760 MP8
+ARM|Mali-T830 MP2
+ARM|Mali-T830 MP4
+ARM|Mali-T880 MP4
+ARM|Mali-T880 MP8
+ARM|Mali-T880 MP12
+ARM|Mali-T860 MP2
+ARM|Mali-T860 MP4
+Imagination Technologies|PowerVR GXA6850
+Imagination Technologies|PowerVR G6230
+Imagination Technologies|PowerVR G6400
+Imagination Technologies|PowerVR G6430
+Imagination Technologies|PowerVR G6630
+Qualcomm|Adreno 304
+Qualcomm|Adreno 305
+Qualcomm|Adreno 306
+Qualcomm|Adreno 308
+Qualcomm|Adreno 405
+Qualcomm|Adreno 418
+Qualcomm|Adreno 420
+Qualcomm|Adreno 430
+Qualcomm|Adreno 505
+Qualcomm|Adreno 512
+Qualcomm|Adreno 530
+Qualcomm|Adreno 540
+ARM|Mali-400 MP1
+ARM|Mali-400 MP2
+ARM|Mali-400 MP4
+ARM|Mali-450 MP4
+ARM|Mali-450 MP8
+ARM|Mali-T624
+ARM|Mali-T628 MP2
+ARM|Mali-T628 MP4
+ARM|Mali-T628 MP6
+ARM|Mali-T678
