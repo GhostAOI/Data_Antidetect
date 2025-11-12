@@ -109,7 +109,4 @@ Sony Xperia 10 IV
 Lenovo Legion Phone Duel
 Lenovo K13 Note
 Motorola Edge 20
-Motorola G60
-Motorola G100
-Nokia 7.2
-Nokia 8.3 5G
+
